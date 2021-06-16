@@ -1,2 +1,2 @@
-# contex-api-example
+# context-api-example
 Created with CodeSandbox
